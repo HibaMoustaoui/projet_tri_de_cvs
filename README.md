@@ -27,4 +27,4 @@ Vous pouvez consulter le rapport complet du projet au format PDF ici :
 ---
 
 ## 👤 Auteur
-Projet développé dans le cadre du stage de fin d'études.
+Projet développé dans le cadre du stage.
